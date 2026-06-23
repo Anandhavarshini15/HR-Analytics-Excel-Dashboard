@@ -1,6 +1,6 @@
 #  HR Analytics Excel Dashboard
 
-## 📋 Project Overview
+## Project Overview
 Analyzed IBM HR Employee Attrition data using 
 Microsoft Excel to identify key factors causing 
 employee attrition.
